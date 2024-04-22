@@ -6,7 +6,7 @@ const Navbar = () => {
         <>
             <nav className='flex justify-around border items-center p-4'>
                 <div className=''>
-                    <p>LOGO</p>
+                    <p>LOGOO</p>
                 </div>
                 <div className='border-2'>
                     <div>
